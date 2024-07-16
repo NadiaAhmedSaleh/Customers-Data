@@ -19,10 +19,10 @@ in this step I have installed and used Charts.js
 as needed in the requirments I have created a filter input using search pipe which filters the table according to the id or amount the user have entered.
 
 
-installed packages:
-bootstrap
-charts.js
-json server
+-installed packages:
+-bootstrap
+-charts.js
+-json server
 
 
 
