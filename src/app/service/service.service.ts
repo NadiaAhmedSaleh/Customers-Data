@@ -9,6 +9,6 @@ export class ServiceService {
   constructor(private _httpClient: HttpClient) {}
 
   getData(): Observable<any> {
-    return this._httpClient.get('http://localhost:3000/data');
+    return this._httpClient.get('https://my-json-server.typicode.com/nadiaahmedsaleh/database/data');
   }
 }
